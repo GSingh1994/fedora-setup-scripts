@@ -1,3 +1,5 @@
 com.github.GradienceTeam.Gradience
 com.visualstudio.code
-org.signal.Signal
+flathub com.slack.Slack
+com.discordapp.Discord
+us.zoom.Zoom
