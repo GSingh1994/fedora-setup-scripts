@@ -15,8 +15,11 @@ Dialog must be installed for the menu system to work and as such the script will
 - **flatpak-packages.txt** - This file contains a list of all flat packages to install you can customise this with your choice of applications by application-id.
 - **dnf-packages.txt** - This file contains a list of all applications that will be installed via the Fedora and RPMFusion repositories.
 
+## Backup gnome 
+dconf dump / > Linux-backup
 
-
+## Restore gnome
+dconf load / < Solus-backup
 
 ## Screenshot
 
