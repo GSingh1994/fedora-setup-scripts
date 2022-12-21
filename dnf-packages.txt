@@ -1,11 +1,14 @@
 google-chrome-stable
 steam
 gnome-tweaks
-p7zip
-unzip
 transmission
 micro
 bat
+bat
+tldr
+lsd
+fish
+clapper
 trash-cli
 papirus-icon-theme
 breeze-cursor-theme

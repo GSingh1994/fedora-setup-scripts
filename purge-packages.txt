@@ -1,0 +1,13 @@
+gnome-maps
+gnome-terminal
+libreoffice-core
+gnome-tour
+rhythmbox
+gnome-weather
+gnome-contacts
+gnome-characters
+cheese
+simple-scan
+gnome-connections
+gnome-abrt
+totem1
