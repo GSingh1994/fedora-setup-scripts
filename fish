@@ -1,1 +1,1 @@
-.config/fish/
+/home/singh/.config/fish/
