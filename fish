@@ -1,1 +1,0 @@
-/home/singh/.config/fish/
